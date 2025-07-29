@@ -1,0 +1,12 @@
+{
+    "index": 1,
+    "timestamp": 1753799957.487724,
+    "sender": "Alice",
+    "recipient": "Bob",
+    "value": 100,
+    "previous_hash": "f71a21963cd3e1fb81431506d65a284ca070a73cfec86e8bc9446fd81cdf6fff",
+    "nonce": 68684,
+    "public_key": "362c8ecd462bf4dc54313aba5ab7a167a6cf15ca3eb0390c6432d537cd8587ed4d5662fc643d348764acc8852aab4a269b5c606eb938f5087acaf44099c75108",
+    "signature": "d4873b30ea41911f48b14dc385e0ba00d76b0053df76960ec98b7882c1ea3e9ba9869e7ac428e09b601cbc2b352bb54dc5e6c98fbee658026dc18be435f0311d",
+    "hash": "0000c8b2785f4238eb2195678be16863d8332560a2322085577c08ea6e2d2a5f"
+}

@@ -1,0 +1,12 @@
+{
+    "index": 3,
+    "timestamp": 1753799957.7639132,
+    "sender": "Charlie",
+    "recipient": "Alice",
+    "value": 25,
+    "previous_hash": "0000572f90fa68cee526fe9655c93df2c3ae00b07f7eff24d2a6559c3d7a4459",
+    "nonce": 59418,
+    "public_key": "a272a3e317b1d954a583ea46b5deafb9d9f99e62ed32f686ca487efb03c8678ae561ce1c3f2dfcb12c7c1ff2386e4c2b675246892bb57efbc68fc2632c72cd23",
+    "signature": "271e81218ecdba0d98fd169c23901ca5082ad5202c4d96584132f1da30b110eb49cf9de02e43b5dcde11ece1fe54b21c8b32c47b868ff8173dbf70551df4ada4",
+    "hash": "0000d7a6bf5ef464cfe09eb437fc0219d2c40aabdd4c8debdff6c4757cb363b9"
+}
