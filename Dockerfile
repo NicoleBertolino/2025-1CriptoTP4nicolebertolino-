@@ -10,5 +10,8 @@ COPY app/ /app/
 # Instala dependências (se houver)
 # RUN pip install --no-cache-dir -r requirements.txt
 
+# Instalar a biblioteca ecdsa
+RUN pip install --no-cache-dir ecdsa
+
 # Define o comando padrão para executar o script
-ENTRYPOINT ["python", "./blockchain.py"]
+ENTRYPOINT ["python", "./blockchain_ecdsa.py"]
